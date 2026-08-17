@@ -18,14 +18,17 @@ The three scripts and associated Notebooks correspond to **three first-level mod
 
 ## `firstlevel_parametric_nilearn.py`, `visualize-nilearn-rankregression.ipynb`
 - **Use for:** rating/value localizer (value representation; ROI definition/visualization support)
+- **Results location:** "/results/nilearn_rating_parametric" with figures in "/output/rankregression"
 - **Chapter 4 figures:** 19
 
 ## `firstlevel_task_valuation_nilearn.py`, `visualize-nilearn-taskvaluation.ipynb`
 - **Use for:** reversal learning **parametric** value GLM (Initial Value and Model-Derived Value)
+- **Results location:** "/results/nilearn_task_valuation2" with figures in "/output/Valuation"
 - **Chapter 4 figures:** 20
 
 ## `firstlevel_task_BI_nilearn.py`, `visualize-nilearn-taskBI.ipynb`
 - **Use for:** reversal learning behavioral inhibition GLM (accuracy × congruency × epoch)
+- **Results location:** "/results/nilearn_task_BI" with figures in "/output/BI"
 - **Chapter 4 figures:** 21, 22
 
 
